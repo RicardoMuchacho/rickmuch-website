@@ -6,7 +6,7 @@ export default function Header({ name }) {
     <header className="pt-20 pb-12">
       <div className="flex justify-center mb-5 rounded-full shadow-xl ">
         <Image
-          className="rounded-full object-cover object-center  border-2 border-white"
+          className="rounded-full object-cover object-center border-2 border-white"
           src="/workRick.jpg"
           alt="Ricardo Muchacho Image"
           width="200"
