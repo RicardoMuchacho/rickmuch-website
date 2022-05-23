@@ -16,11 +16,12 @@ export default function Index({ globalData }) {
         </h1>
         <div className="mx-5 md:mx-0 rounded-lg md:first:rounded-t-lg md:last:rounded-b-lg p-5 backdrop-blur-lg bg-white dark:bg-black dark:bg-opacity-30 bg-opacity-10 hover:bg-opacity-20 dark:hover:bg-opacity-50 transition border border-gray-800 dark:border-white border-opacity-10 dark:border-opacity-10 border-b-0 last:border-b hover:border-b hovered-sibling:border-t-0">
           <h2 className="text-2xl md:text-3xl">
-            Achievement Los Robles 2nd Grade
+            Computer Science Student / Developer
           </h2>
           <p className="mt-3 text-lg opacity-60">
-            1st place in multiplication, beated a fockin nirger called renny and
-            dumped his ass in the trash
+            21 years old computer science student, I believe technology is the
+            future of humanity and I try to learn as much as I can about it. I'm
+            very competitive so I'm always trying to improve
           </p>
         </div>
       </main>
