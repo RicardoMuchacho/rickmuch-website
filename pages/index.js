@@ -20,8 +20,8 @@ export default function Index({ globalData }) {
           </h2>
           <p className="mt-3 text-lg opacity-60">
             21 years old computer science student, I believe technology is the
-            future of humanity and I try to learn as much as I can about it. I'm
-            very competitive so I'm always trying to improve
+            future of humanity and I try to learn as much as I can about it. Im
+            very competitive so Im always trying to improve
           </p>
         </div>
       </main>
